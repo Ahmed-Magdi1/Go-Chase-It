@@ -1,2 +1,0 @@
-my_robot
--DCATKIN_DEVEL_PREFIX=/home/ahmed/bot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ahmed/bot_ws/install -G Unix Makefiles
